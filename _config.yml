@@ -1,0 +1,28 @@
+name: Taha Raja
+favicon: null
+layout_spectrum: 0.1294387101661414
+typography_spectrum: 0.6235472897533327
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3744745112489909
+  lightness: 0.7924820072948933
+  saturation: 0.5258774405810982
+  rhythmicContrast: 0.5395818129181862
+purpose: []
